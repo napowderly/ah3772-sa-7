@@ -1,0 +1,6 @@
+ato-version: ^0.2.0
+builds:
+  default:
+    entry: elec/src/ah3772-sa-7.ato:Ah3772Sa7
+dependencies:
+- generics
