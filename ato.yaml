@@ -1,6 +1,9 @@
 ato-version: ^0.2.0
 builds:
   default:
-    entry: elec/src/ah3772-sa-7.ato:Ah3772Sa7
+    entry: elec/src/AH372-SA-7.ato:AH3772SA7
 dependencies:
 - generics
+
+services:
+  components: https://atopile-component-server-atsuhzfd5a-uc.a.run.app/jlc
