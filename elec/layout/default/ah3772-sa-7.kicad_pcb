@@ -104,7 +104,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 487a496f-e9b0-49c6-9a3a-060ef971beb1)
     )
-    (fp_text value "Chip Resistor - Surface Mount 1KOhms ±5% 1/16W 0402 RoHS" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 0 1.17) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 912a809a-e7b4-48bd-84ac-017ea30b5973)
     )
