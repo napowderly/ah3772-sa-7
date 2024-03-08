@@ -100,7 +100,7 @@
     (tags "resistor")
     (path "/49f94e75-cfc4-d029-586d-1a079a4984d0/49f94e75-cfc4-d029-586d-1a079a4984d0")
     (attr smd)
-    (fp_text reference "R1" (at 0 -1.17) (layer "F.SilkS")
+    (fp_text reference "R1" (at 0 -1.17) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 487a496f-e9b0-49c6-9a3a-060ef971beb1)
     )
@@ -148,7 +148,7 @@
     (at 161.87 83.83)
     (path "/cae87d37-067b-ab79-5c13-cbe5fc2d6690/cae87d37-067b-ab79-5c13-cbe5fc2d6690")
     (attr through_hole)
-    (fp_text reference "U1" (at 0 -4.95) (layer "F.SilkS")
+    (fp_text reference "U1" (at 0 -4.95) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 49765831-cd96-4823-b71a-039acadab393)
     )
@@ -198,7 +198,7 @@
     (tags "capacitor")
     (path "/cf0a73a6-c31b-b2f4-8f01-4a2e7ed88f7d/cf0a73a6-c31b-b2f4-8f01-4a2e7ed88f7d")
     (attr smd)
-    (fp_text reference "C1" (at 0 -1.16) (layer "F.SilkS")
+    (fp_text reference "C1" (at 0 -1.16) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cfa5b1d8-9558-4c59-b002-fee805dd3814)
     )
